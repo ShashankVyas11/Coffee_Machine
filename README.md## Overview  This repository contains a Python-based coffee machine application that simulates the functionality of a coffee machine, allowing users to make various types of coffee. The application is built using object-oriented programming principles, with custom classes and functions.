@@ -1,0 +1,13 @@
+# Coffee_Machine
+
+## Overview
+This repository contains a Python-based coffee machine application that simulates the functionality of a coffee machine, allowing users to make various types of coffee. 
+The application is built using object-oriented programming principles, with custom classes and functions.
+
+## Features
+- Create different types of coffee (e.g., espresso, latte, cappuccino).
+- Customize the amount of coffee beans, milk, and water for each coffee.
+- Check the available resources (coffee beans, milk, water) in the machine.
+- Refill the resources as needed.
+- Track the money earned from coffee sales.
+- Allow users to place orders and calculate change.
